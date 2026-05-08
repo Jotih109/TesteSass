@@ -1,0 +1,16 @@
+#title-home {
+  font-size: 44px;
+  font-family: sans-serif;
+  color: #ff4043;
+}
+
+.btn {
+  padding: 5px 10px;
+  background-color: #0a092c;
+  color: white;
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
